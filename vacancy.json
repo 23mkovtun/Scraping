@@ -1,0 +1,702 @@
+[
+    {
+        "Вакансия:": "Junior Software Development Engineer in Test, Python (MacOs)",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Лаборатория Касперского",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=518360&c=5&place=35&meta=d8SIvY1GtSgC_sxETmxlkZ2iLyG56gIKaFLxOT6OtIOefTgA1xjtlKfXlV2r3nV6KV9WXyg4tFXZJQFJRFLI9ZshjLWu-USws3DOoEkPMg3PUMH-w-MxPoILJQdTYmhoWSYwegvWnRra6QvB8bx5q5-CIzjYgF_J8qJXxVyGYf2DNE02sx-yzkyOlEznIDBu21G3_Ivi-yMlFMRLfXfkpio9TJjlR5gLU4Z8F-vTrQ1JKpgfpiddLznpt52MHH-ME4l94fYGxXWKB7p6xtHY5LBGPM1uw19avsHRr5WYdfBOsMQsi6LA3nuXxEzkukLCS2O5SRip352r-j5mqijL7vIduJPutDKvIIGe_Z-l_WUPOV9RNj91mJQ0e0rUGKok9oMmTyFmpxyP7kx67ROxyWuBbyki9BNcIq0hCECeDCor9HRtPzcw5yXnknn0JY5bF_bGuikCxJT7e0u_eBk8X0qfiFif6fJ46wtE3APOB_xckkQ1eGPjj3ZOuu9c8hW6bOsPQY60vdmztRZmEfNJ_Q%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Lead DevOps Engineer",
+        "Город:": "Москва, Бауманская",
+        "Зарплата:": "от 300 000 ₽",
+        "Компания:": "Perfect Panel",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=515443&c=6&place=36&meta=p2Atd3mIueeO5K1m22ot6j7ZsgyKkNJDrH_a70Jywodnt2wGmqHsLmefyVtjbmoDgU_XSDvSs85emBIIq41RQsN8lbD5ob8Ia_dhDLOOvK6tsjOfBYFiV84CsJ8FTVLCyp2-U837L3tB3znYw0HE8Z5nw0v73mKKqUeEAYXXBG9QQFx6t3tQR2WxGqWHyNVxzgUZJxShUmbJVtjRPJH8JGIgh9Bqs9T2a6i6r99QR9wrS7aWEMSe_43PWpxKFfLIViwnRS6A4Q_o7YafXkzbugcR2leqcdyrjsXA2Q7Hh3cgR9r8ZCIT75TAs1GFL9yJ4T3HKxMi-7w4qN8aaFxzdmbD2gPavQP-I5VrivL-qQpM33wcXazhAzd5Vh76Hvw1nkYgMXbQ3I2r75tFEqA1sxfys9LDG-o3-JOIDag0I6tdcIkMyzWZXCBc6l-RXa2DpoeJrqcSmX47K8ukxGt9B3dCP5Am6vO8HYv4eEgEVHSjBW0r5XI2melW5sXPzi08OCla6DNZYwFO50MMBr9hlA%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "Город:": "Москва, Павелецкая и еще 1 ",
+        "Зарплата:": "200 000 – 300 000 ₽",
+        "Компания:": "CATAPULTO.RU",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "OAM: Системный администратор Linux",
+        "Город:": "Москва, Отрадное",
+        "Зарплата:": null,
+        "Компания:": "STC",
+        "Ссылка:": "https://spb.hh.ru/vacancy/81522582?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Senior developer/Team lead",
+        "Город:": "Москва, Новодачная",
+        "Зарплата:": "350 000 – 400 000 ₽",
+        "Компания:": "ООО Терра Квантум",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84358445?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Консультант по анализу финансовых данных и созданию моделей оценки кредитных рисков",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Деловые Решения и Технологии (ДРТ)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/76138251?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Middle/Senior Продуктовый аналитик в направление работодатели",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/71324858?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Руководитель продуктовой аналитики в направление \"Работодатели\"",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80506204?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Data Engineer",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "«Procter & Gamble», Опытный специалист",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79672184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Сбер. IT",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84438833?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "ОТП Банк, АО (OTP bank)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84434346?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "АНО ЦИСМ",
+        "Ссылка:": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": "120 000 – 180 000 ₽",
+        "Компания:": "ООО Телеформ ИС",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83617001?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "ООО Киберлэндинг",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79974184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": "160 000 – 180 000 ₽",
+        "Компания:": "ООО Компания Дилявер",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83332307?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Кутузовская",
+        "Зарплата:": null,
+        "Компания:": "Домклик",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83936497?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Capital Group",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84419117?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Калужская",
+        "Зарплата:": null,
+        "Компания:": "idaproject",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84418444?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python developer",
+        "Город:": "Москва, Баррикадная и еще 2 ",
+        "Зарплата:": null,
+        "Компания:": "Бюро 1440",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79120764?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "билайн: ИТ, Data, Digital",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83801168?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Junior Software Development Engineer in Test, Python (MacOs)",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Лаборатория Касперского",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=518360&c=5&place=35&meta=DtvXSKpmo86iw-m_LhstvEFmCqGW87GfhU8xhrpGhaPalMud90vnunE9J-WVfmsXS_0TFpb3i14h_G5RuhZvjua_IFqwudjIdE_5NriBXgWRkoG-bHKhA_BM01Pg6muGVjz_PdMFi9Tgy7RciRKY0sXPDy3XePrLIhexyHnQIel1ZcYP6QR9t4pAAHyj7O9WsmO1WQfcepWrgCSFccpFdeJqNpL9rV92c7cwTMd7MhHm4xUj8N0OlbJKjhd9zlL6BXYgbPr3CGEbdKEZu6tS8Atp1PkFVTlJn3BD2pPTE1UaJrRF1OETJpx7uHzhXJd99wYhvW-5qpDkcLJVmQxUjdwbviidgpLJpTwU7U0wKYDp2K4VTcbCTwLuGA3Pqdg_iq0vuYhJe3Dgst30w55_QD0iSV3heFfuGTTIw2Rd5SFVzWqqzaBGkScmsZ_JjrII19DRduC54ZbffzoOk-VGbZ3Ya9DN_XsQBQGagQ2A4qQtBnl3vM-UVmNq5JTH1uWOfpjcoXf3oq7Com1ptLvfgg%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Lead DevOps Engineer",
+        "Город:": "Москва, Бауманская",
+        "Зарплата:": "от 300 000 ₽",
+        "Компания:": "Perfect Panel",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=515443&c=6&place=36&meta=6G9WxeN8kA9BA_5ggaL4FjVcDuS0zJ3j8nK1jwpvh94Q-tqFESVg0G-nExiE9nG6hWdz5MetF1u_KtkJ_FYQ-8baYhYDkECNn8P-uwFTlkvjc2mz_XuFmFFj26Lz1pf7p3vr7E9il422dgmhncGtNXE_iVvE4AFp0cNn2ddgwhf6RS_A8Sdr7CsflHwx4888eWNSB4YBC8R1o2Bd9tCuuOjDP2U-i1R7T4M6K_t7x4JsO3X1AGSvzcOrkjgar8pQCkE1ZeLR1juWLQwRBuPi-m_sW5AdnfOfAh3BjNgILyYsGh5A9OvIIRDUi0KcJhVrb-32Z_RmAJPiaA7ayBStLlmAKf1Vozx-XClO_Yo1FOIO4KAw1JeN2uVxapQ2O1TrtkNEUU3PG1EFh6e5mpa2JkoKx34W-W4URlPD_yrWsf5nE2QWGPhYfmWRYs9VeC3tAaRPeF5iXolKkjc-Fl7G-K4WWD9mZDrYfv0_-Yz0tXjz6UIuIsCsXuYW4-b3KeulV-RdZJVV1EA7zq8bwb137w%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "Город:": "Москва, Павелецкая и еще 1 ",
+        "Зарплата:": "200 000 – 300 000 ₽",
+        "Компания:": "CATAPULTO.RU",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "OAM: Системный администратор Linux",
+        "Город:": "Москва, Отрадное",
+        "Зарплата:": null,
+        "Компания:": "STC",
+        "Ссылка:": "https://spb.hh.ru/vacancy/81522582?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Senior developer/Team lead",
+        "Город:": "Москва, Новодачная",
+        "Зарплата:": "350 000 – 400 000 ₽",
+        "Компания:": "ООО Терра Квантум",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84358445?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Консультант по анализу финансовых данных и созданию моделей оценки кредитных рисков",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Деловые Решения и Технологии (ДРТ)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/76138251?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Middle/Senior Продуктовый аналитик в направление работодатели",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/71324858?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Руководитель продуктовой аналитики в направление \"Работодатели\"",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80506204?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Data Engineer",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "«Procter & Gamble», Опытный специалист",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79672184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Сбер. IT",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84438833?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "ОТП Банк, АО (OTP bank)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84434346?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "АНО ЦИСМ",
+        "Ссылка:": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": "120 000 – 180 000 ₽",
+        "Компания:": "ООО Телеформ ИС",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83617001?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "ООО Киберлэндинг",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79974184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": "160 000 – 180 000 ₽",
+        "Компания:": "ООО Компания Дилявер",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83332307?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Кутузовская",
+        "Зарплата:": null,
+        "Компания:": "Домклик",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83936497?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Capital Group",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84419117?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Калужская",
+        "Зарплата:": null,
+        "Компания:": "idaproject",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84418444?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python developer",
+        "Город:": "Москва, Баррикадная и еще 2 ",
+        "Зарплата:": null,
+        "Компания:": "Бюро 1440",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79120764?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "билайн: ИТ, Data, Digital",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83801168?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Junior Software Development Engineer in Test, Python (MacOs)",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Лаборатория Касперского",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=518360&c=5&place=35&meta=YNDyL5wbFAjj7W3sjkourKKLvRUypRPdi-i85W7Gv6Hav4E7ucxdgiJc0f0NgLn-9F1DhrdlEx9oRvg9b5LI-LmFZQL_GoVD4Uw2Cc9PC2HdogBJpEmD9mRdTS8N7DaN12HsVrp5oOg3KExSVN6vGlVvlMRksVbo6sr4Youyij0wk44U5oVBpsCTJ07I2byNV2iJGd_PNS9EItHZBr8rGl8KftlxQdSlT-accBmBwPzNoAZrTI0cdsDcBXOr0uXb2pi-CO_B5xV2phPteoqZ6ou20P3RyTh0djnpcnlSg0yJX8gA1tX7IcxwjgOCAAwz8BJYyxc-PpkbgcBJezrnEtr4K0cEXMpsJCHxWMACJfW5j_T9_DWaMfMhthTbZMevoC0emU5DZFnO6wGSNl4IRPOm5HluhvH5gmwKOeLLS4kzEJB2VjTfKc-Pkxo1nXaX3dy4PC03MyhFcwcOGyeIL9mQ6brBv18kHiQWIfUOxbP2FOnNJsHRPvQNSMLHh2z_QmiMabiwBQDfK-73LBtJMQ%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Lead DevOps Engineer",
+        "Город:": "Москва, Бауманская",
+        "Зарплата:": "от 300 000 ₽",
+        "Компания:": "Perfect Panel",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=515443&c=6&place=36&meta=h-_hucv3wx4m-ckUnFy38I68-5BQxW5EO_ViWtJLHQ9BM0w0HiU6N8dwXKV0CiK0G0VxRSeumEGUJIg2hGR8ibsZp1V_jq6UYDJdyvjD5z2FxfBQKFiie50i3k2cddGxPXOQzqBGjTRPzsQKJiAt4VBcb-C34WVyOiDSRgU_pgHrwYvXNUnOCsOo9lv-dLLhJdqUxjenNdZXR3mpk18A29VK30600xu-Sf4mX91862kQ4RfYlozB_cSFkWOTr5ZIusTgF299a3gycf0oBRswjhRgvc9wE6eCu_0uSRo8gRagPKbRReaJ-9HmUbcRzTpBbtHITo-r_POljCQRrzqJTL8wbXwaD8eCiYSSceHOXJ5npqKJhVRXnb3Qla8CGuPUFREWmlHpwSvswP2I6pcbKQ2s-ykfCQUbstYv01vd3gdA77lUORCS153wJE7ufs80NsAwX4T9EGK_XrbZnYRY6PKjl511isAC9XGNE4EeT2zQnLu38zZbeUSOi-Sqk0CdOajO4TGgeSGuKmtedn4o3A%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "Город:": "Москва, Павелецкая и еще 1 ",
+        "Зарплата:": "200 000 – 300 000 ₽",
+        "Компания:": "CATAPULTO.RU",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "OAM: Системный администратор Linux",
+        "Город:": "Москва, Отрадное",
+        "Зарплата:": null,
+        "Компания:": "STC",
+        "Ссылка:": "https://spb.hh.ru/vacancy/81522582?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Senior developer/Team lead",
+        "Город:": "Москва, Новодачная",
+        "Зарплата:": "350 000 – 400 000 ₽",
+        "Компания:": "ООО Терра Квантум",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84358445?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Консультант по анализу финансовых данных и созданию моделей оценки кредитных рисков",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Деловые Решения и Технологии (ДРТ)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/76138251?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Middle/Senior Продуктовый аналитик в направление работодатели",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/71324858?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Руководитель продуктовой аналитики в направление \"Работодатели\"",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80506204?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Data Engineer",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "«Procter & Gamble», Опытный специалист",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79672184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Сбер. IT",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84438833?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "ОТП Банк, АО (OTP bank)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84434346?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "АНО ЦИСМ",
+        "Ссылка:": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": "120 000 – 180 000 ₽",
+        "Компания:": "ООО Телеформ ИС",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83617001?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "ООО Киберлэндинг",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79974184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": "160 000 – 180 000 ₽",
+        "Компания:": "ООО Компания Дилявер",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83332307?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Кутузовская",
+        "Зарплата:": null,
+        "Компания:": "Домклик",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83936497?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Capital Group",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84419117?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Калужская",
+        "Зарплата:": null,
+        "Компания:": "idaproject",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84418444?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python developer",
+        "Город:": "Москва, Баррикадная и еще 2 ",
+        "Зарплата:": null,
+        "Компания:": "Бюро 1440",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79120764?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "билайн: ИТ, Data, Digital",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83801168?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Junior Software Development Engineer in Test, Python (MacOs)",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Лаборатория Касперского",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=518360&c=5&place=35&meta=E9w2zueLz5-TMn9IQySTSp55yK557VxwK0YhHiQ95Pv41hCb9dRRZDVx2MzfU0bFZRnn4fpAZkyX-F72NQOBd0y8Cd51jbmOQSSGmdnkdHksPqy4Ok6bGdssCIoK0C5eDM1ziqE3d4Z7mDGVjCXjCX-w5i-iHaLWQu0K3m7UA6XE4UIOk1Bd1PkTxMP0IYpY0LAEUiB_yRbeTxx5WZozUVmhSqFw8eUI655vovRAKqvsvxJOUiwohnqszaHvvr-4pAcBwbEvmp2E3m9iRiO1BdOJq-UraLxezNyO6q6OIGrnSd9B4Bg3yPhAvHulX7e3RCtEmwuVXsg7m99CddQesHIOhfG53VbQ1SYNJEXq6SxGOE1vAPcYSfe-f0volD4risGyFL2b9b31PoqwjiCrhCnKYbFUn0k2xx35oI4D1G1c-OJ_03tYSVp-4CuaHz9oTODViHwPyHFCfUVrHNoShZ3wSfmWU0--iEjCMfL0XZKljyAjJVM8vSEGkEbCd0x76erN3mUnfhGROhCuUV2YyQ%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Lead DevOps Engineer",
+        "Город:": "Москва, Бауманская",
+        "Зарплата:": "от 300 000 ₽",
+        "Компания:": "Perfect Panel",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=515443&c=6&place=36&meta=TlfD3owZ5BaGX0X7WNcLJsJ0extYToN4rUzpx0GT6FbQyNqYvtSLYSpYJPUast5bQMC1xDLylbEQph7JYfmmMFkylhN-zMFIXHTJig8VYh3WXNdbuFff_A78-5rXNpJ1qD2D8kUPzbrzqfqfc02gn86rXUNnkwWVCq8qS5D3rigJAWUR6AO3tArB0Yv9s_qGWTazXZvi7zxhVowOlEDCQthMG6DPhDqi0smdwMXNP3kDHaT4rOoXqh15E5iDPWD9DdbYe76TJdUIGau0waR9BF6f2Pg98sjw6mzWhiLeDeobIVLtaUpAOATyL7sgKyd1oDaQOoOns0qlUmbdugyIGMmkb9C_GhS36xNi4wpRwaZjJNocRFjeQibWXZoW_9YWIT1C6TWVUdRFCf7ixHUuuTmNJkyD4dK3SKrv1oKb6iAtVgjAhikrRUbxd3K3cBhnF6sd9MxnpnpoebZcraCqk4qzASTr6GqlgGR9ENRoUgtY4oshfilgmk2_QGGEB5sKtTqVQsLow1zOvW0fOgsMvg%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "Город:": "Москва, Павелецкая и еще 1 ",
+        "Зарплата:": "200 000 – 300 000 ₽",
+        "Компания:": "CATAPULTO.RU",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "OAM: Системный администратор Linux",
+        "Город:": "Москва, Отрадное",
+        "Зарплата:": null,
+        "Компания:": "STC",
+        "Ссылка:": "https://spb.hh.ru/vacancy/81522582?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Senior developer/Team lead",
+        "Город:": "Москва, Новодачная",
+        "Зарплата:": "350 000 – 400 000 ₽",
+        "Компания:": "ООО Терра Квантум",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84358445?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Консультант по анализу финансовых данных и созданию моделей оценки кредитных рисков",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Деловые Решения и Технологии (ДРТ)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/76138251?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Middle/Senior Продуктовый аналитик в направление работодатели",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/71324858?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Руководитель продуктовой аналитики в направление \"Работодатели\"",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80506204?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Data Engineer",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "«Procter & Gamble», Опытный специалист",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79672184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Сбер. IT",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84438833?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "ОТП Банк, АО (OTP bank)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84434346?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "АНО ЦИСМ",
+        "Ссылка:": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": "120 000 – 180 000 ₽",
+        "Компания:": "ООО Телеформ ИС",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83617001?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "ООО Киберлэндинг",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79974184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": "160 000 – 180 000 ₽",
+        "Компания:": "ООО Компания Дилявер",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83332307?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Кутузовская",
+        "Зарплата:": null,
+        "Компания:": "Домклик",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83936497?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Capital Group",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84419117?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Калужская",
+        "Зарплата:": null,
+        "Компания:": "idaproject",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84418444?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python developer",
+        "Город:": "Москва, Баррикадная и еще 2 ",
+        "Зарплата:": null,
+        "Компания:": "Бюро 1440",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79120764?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "билайн: ИТ, Data, Digital",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83801168?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Junior Software Development Engineer in Test, Python (MacOs)",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Лаборатория Касперского",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=518360&c=5&place=35&meta=SwVwtQ-r5kBGCGq1zjmnNAZxyLKTP2Y3-oF7C9Bc4N4kAcOVL2Xgx1g76Yj2rVW5M4nmAR1NcIJSRcMo5hFjCH6cQvGxHMxo5WLBgJ1Y-Gs05UnvOZvaMSHIC3nuCleREqpoLZhpleo-B0YFWFT0JlCptOjel_zDJpUjK_IqYVDeBV25WElQxNyXIgnUkzHB_A61F8lh9t3u5choMXVA3hRGsXC4IcYuwCNpTTlE3CkCUexsGgeTsNvizZvGDJFq-M-DrHgBdaAm6xeRjUeCEOWE8NN8OfhhJR0OJm4P1ygYj9Xs_6t78M0cNvflyTFScasoRZOvpZHIyAQRdS2PXsrIMg2ZolWNskU5sv3OGQe0clN-EK-xzdlhU4zdg9NTU2-vagF70glWiq04_ya8VAG9tpuEfaKc_qHmGR8Tt0kI8VvvcYfBRxdM28yuOyAWVgquVS7sYE1lAvXTXJaus61szsbHvJL9e33Z2wabgLdIIwrzC5MIJws_wzSVQQgKj4s57U8p9W3X3ocnBfVs_Q%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Lead DevOps Engineer",
+        "Город:": "Москва, Бауманская",
+        "Зарплата:": "от 300 000 ₽",
+        "Компания:": "Perfect Panel",
+        "Ссылка:": "https://adsrv.hh.ru/click?b=515443&c=6&place=36&meta=YN8cH8Mv2UVbihIbUzzVjeyDiDk4Vzc2L1rcV2fdSe7vI3AQDaPeoRao6jqYyZ-c8BYgp5U24I58jcpxkGWIDR01Hc8J8dHFuORR3JyBDdjmD00yLKPTtxUy5xF_Kpi4taaLoSG29EGTreM6tC_ViFCdxRD9XV2zZFywD_Nbc28RnLoGEXGSXmL44NAgVGpneL-Ayg0Mr1QgQWtw5LIiv6Pfh03uJzPiqzGpwtqjNBLOrsOJ1fFjr-t5quzcx79IqLmt1WFT7j5g87j_-nSwyDn4H_wBBKzRSP17RMx4ds5_FBE6vUOuzy6gP4hGiFDJ_1dStpmcfkuTSv4H0D5s_dDtspKkqoZszXoeptE9otS6ET75HW5RV0izAkpn6bEQOmqDQgvcYY-nfmr5NnxdN9gHirWQyrbjfNCXuuN-RKVfPwlIR7hzAIck_xoyVmmDD_iDedndKF9s8kg5K5OJyAMUhWyFtYxsDkwTZ_KtkB7ed0aGk-USLBsSQnGBnyrMWQy-5PeTHxvtJyEu_f1mlA%3D%3D&clickType=link_to_vacancy"
+    },
+    {
+        "Вакансия:": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "Город:": "Москва, Павелецкая и еще 1 ",
+        "Зарплата:": "200 000 – 300 000 ₽",
+        "Компания:": "CATAPULTO.RU",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "OAM: Системный администратор Linux",
+        "Город:": "Москва, Отрадное",
+        "Зарплата:": null,
+        "Компания:": "STC",
+        "Ссылка:": "https://spb.hh.ru/vacancy/81522582?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Senior developer/Team lead",
+        "Город:": "Москва, Новодачная",
+        "Зарплата:": "350 000 – 400 000 ₽",
+        "Компания:": "ООО Терра Квантум",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84358445?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Консультант по анализу финансовых данных и созданию моделей оценки кредитных рисков",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Деловые Решения и Технологии (ДРТ)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/76138251?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Middle/Senior Продуктовый аналитик в направление работодатели",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/71324858?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Руководитель продуктовой аналитики в направление \"Работодатели\"",
+        "Город:": "Москва, Алексеевская",
+        "Зарплата:": null,
+        "Компания:": "ООО HeadHunter::Analytics/Data Science",
+        "Ссылка:": "https://spb.hh.ru/vacancy/80506204?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Data Engineer",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "«Procter & Gamble», Опытный специалист",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79672184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Сбер. IT",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84438833?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва, Войковская",
+        "Зарплата:": null,
+        "Компания:": "ОТП Банк, АО (OTP bank)",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84434346?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python-разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "АНО ЦИСМ",
+        "Ссылка:": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": "120 000 – 180 000 ₽",
+        "Компания:": "ООО Телеформ ИС",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83617001?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "ООО Киберлэндинг",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79974184?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Разработчик Python",
+        "Город:": "Москва",
+        "Зарплата:": "160 000 – 180 000 ₽",
+        "Компания:": "ООО Компания Дилявер",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83332307?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Кутузовская",
+        "Зарплата:": null,
+        "Компания:": "Домклик",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83936497?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python Developer",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "Capital Group",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84419117?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва, Калужская",
+        "Зарплата:": null,
+        "Компания:": "idaproject",
+        "Ссылка:": "https://spb.hh.ru/vacancy/84418444?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python developer",
+        "Город:": "Москва, Баррикадная и еще 2 ",
+        "Зарплата:": null,
+        "Компания:": "Бюро 1440",
+        "Ссылка:": "https://spb.hh.ru/vacancy/79120764?from=vacancy_search_list&query=python"
+    },
+    {
+        "Вакансия:": "Python разработчик",
+        "Город:": "Москва",
+        "Зарплата:": null,
+        "Компания:": "билайн: ИТ, Data, Digital",
+        "Ссылка:": "https://spb.hh.ru/vacancy/83801168?from=vacancy_search_list&query=python"
+    }
+]
